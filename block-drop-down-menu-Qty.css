@@ -1,0 +1,32 @@
+
+.block-drop-down-menu-Qty {
+	background-color: #111a28;
+	position: absolute;
+	display: inline-block;
+	box-sizing: border-box;
+	width: 90px;
+	height: 40px;
+	border: solid 0.5px white;
+	margin-top: 250px;
+	margin-left: 575px;
+	font-family: museo-sans, sans-serif;
+	font-style: normal;
+	font-weight: 100;
+	font-size: 17px;
+	text-align: center;
+	line-height: 40px;
+	color: white;
+	letter-spacing: 1px;
+}
+
+.block-drop-down-menu-Qty__options {
+	background-color: #111a28;
+	font-family: museo-sans, sans-serif;
+	font-style: normal;
+	font-weight: 100;
+	text-align: center;
+	line-height: 40px;
+	color: white;
+	letter-spacing: 1px;
+}
+

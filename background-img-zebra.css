@@ -1,0 +1,11 @@
+
+.background-img-zebra {
+	/* border: solid 1px red; */
+	width: 70%;
+	height: 600px;
+	margin: 25px auto;
+	overflow: hidden;
+	background: /*white*/ url("zebralayer.jpg") no-repeat;
+	background-size: cover;
+}
+
